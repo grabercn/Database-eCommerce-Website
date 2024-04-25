@@ -3,6 +3,8 @@
 - This project meets the requirements of the Database Design Class final project, and is showcased here in entirety for exploration, professional, and educational purposes.
 - This project is to be used for the above stated purposes only, unless explicitly granted permission from the authors to do otherwise.
 
+####
+
 ## I. Backend Stuff
 
 1. **Most Important Initial Step**: Setting up Java - Spring Boot project, with Maven dependencies from the Spring Initializer.
