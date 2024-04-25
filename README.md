@@ -1,3 +1,8 @@
+## About
+- This project is a group project created by [Christian Graber](https://github.com/grabercn) [Elias Weitfle]() and [Owen Edwards](https://github.com/OwenAEdwards/OwenAEdwards)
+- This project meets the requirements of the Database Design Class final project, and is showcased here in entirety for exploration, professional, and educational purposes.
+- This project is to be used for the above stated purposes only, unless explicit permission from the authors.
+
 ## I. Backend Stuff
 
 1. **Most Important Initial Step**: Setting up Java - Spring Boot project, with Maven dependencies from the Spring Initializer.
