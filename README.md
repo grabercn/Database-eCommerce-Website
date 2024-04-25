@@ -1,5 +1,5 @@
 ## About
-- This project is a group project created by [Christian Graber](https://github.com/grabercn), [Elias Weitfle](), and [Owen Edwards](https://github.com/OwenAEdwards/).
+- This project is a group project created by [Christian Graber](https://github.com/grabercn), [Elias Weitfle](https://github.com/witflee), and [Owen Edwards](https://github.com/OwenAEdwards/).
 - This project meets the requirements of the Database Design Class final project, and is showcased here in entirety for exploration, professional, and educational purposes.
 - This project is to be used for the above stated purposes only, unless explicitly granted permission from the authors to do otherwise.
 
